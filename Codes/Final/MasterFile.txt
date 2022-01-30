@@ -1,0 +1,19 @@
+Use the file code_wo_thigh.py to collect data.
+
+Walk:
+1. CleanData.py cleans the files.
+2. Gaitplot.m is matlab file to plot graphs
+3. Walk.py is the file to test our detection codes offline.
+
+StairUp:
+1. No need to clean the files ( inserted in main code ).
+2. Gaitplot.m can plot the graphs
+3. AutoUp.py is the main file to detect events.
+
+StairDown:
+1. No need to clean the files ( inserted in main code ).
+2. Gaitplot.m can plot the graphs.
+3. AutoDown.py is the main file to detect events.
+
+
+

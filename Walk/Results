@@ -1,0 +1,398 @@
+mssaboo@mssaboo-Inspiron-5559:~/Desktop/TS_HS$ python3 Code.py Walk1
+Walk1
+Total Number of Samples:
+957
+Test Limit:
+952.0000000000001
+Sampling Time:
+0.06269592476489028
+Actual Heel Strikes:
+[50, 73, 95, 119, 143, 174, 197, 219, 242, 265, 288, 315, 341, 366, 390, 415, 438, 465, 494, 519, 541, 564, 587, 609, 634, 661, 695, 719, 741, 764, 787, 810, 832, 853, 876, 898, 927, 953]
+Actual Toe Strikes:
+[56, 78, 101, 124, 152, 179, 200, 223, 245, 266, 296, 327, 344, 373, 398, 423, 445, 479, 502, 528, 551, 568, 593, 617, 679, 679, 698, 722, 748, 767, 790, 815, 838, 856, 879, 903, 941, 955]
+Number of Actual Heel Strikes:
+38
+Number of Actual Toe Strikes:
+38
+Detected Heel Strikes:
+[49, 73, 94, 118, 140, 173, 196, 219, 240, 265, 287, 313, 340, 364, 389, 414, 437, 461, 494, 518, 541, 564, 586, 608, 632, 660, 695, 718, 741, 763, 786, 808, 830, 852, 876, 897, 923, 956]
+Detected Toe Strikes:
+[56, 84, 101, 129, 146, 182, 202, 224, 247, 269, 292, 319, 344, 369, 394, 420, 442, 468, 498, 522, 544, 567, 590, 612, 637, 664, 700, 722, 746, 768, 790, 813, 836, 857, 879, 902, 932]
+Number of Detected Heel Strikes:
+38
+Number of Detected Toe Strikes:
+37
+Difference in Heel Strike Actual and Detected:
+[1, 0, 1, 1, 3, 1, 1, 0, 2, 0, 1, 2, 1, 2, 1, 1, 1, 4, 0, 1, 0, 0, 1, 1, 2, 1, 0, 1, 0, 1, 1, 2, 2, 1, 0, 1, 4, 3]
+Avg Diff in HS (Samples):
+1.1842105263157894
+Avg Diff in HS (Seconds):
+0.07424517406368585
+Difference in Toe Strike Actual and Detected:
+[0, 6, 0, 5, 6, 3, 2, 1, 2, 3, 4, 8, 0, 4, 4, 3, 3, 11, 4, 6, 7, 1, 3, 5, 42, 15, 2, 0, 2, 1, 0, 2, 2, 1, 0, 1, 9]
+Avg Diff in TS (Samples):
+4.54054054054054
+Avg Diff in TS (Seconds):
+0.28467338812166393
+mssaboo@mssaboo-Inspiron-5559:~/Desktop/TS_HS$ python3 Code.py Walk2
+Walk2
+Total Number of Samples:
+913
+Test Limit:
+908.0
+Sampling Time:
+0.06571741511500548
+Actual Heel Strikes:
+[53, 80, 104, 127, 151, 174, 197, 221, 244, 267, 291, 314, 340, 362, 388, 412, 436, 461, 485, 509, 533, 556, 579, 604, 636, 661, 683, 708, 732, 755, 779, 802, 826, 848, 871, 895, 908]
+Actual Toe Strikes:
+[57, 83, 108, 129, 153, 177, 204, 224, 248, 274, 299, 322, 342, 371, 393, 420, 439, 467, 492, 518, 541, 559, 585, 616, 643, 669, 691, 712, 739, 761, 783, 811, 831, 854, 876, 899, 910]
+Number of Actual Heel Strikes:
+37
+Number of Actual Toe Strikes:
+37
+Detected Heel Strikes:
+[53, 80, 104, 126, 150, 173, 196, 219, 243, 266, 289, 314, 337, 363, 388, 412, 436, 459, 484, 509, 531, 555, 578, 601, 636, 658, 683, 708, 731, 754, 779, 801, 824, 848, 870, 895, 911]
+Detected Toe Strikes:
+[57, 85, 108, 130, 154, 184, 206, 224, 247, 271, 294, 318, 346, 366, 391, 417, 439, 464, 488, 513, 536, 559, 583, 607, 640, 666, 686, 713, 735, 760, 782, 806, 829, 851, 876, 899]
+Number of Detected Heel Strikes:
+37
+Number of Detected Toe Strikes:
+36
+Difference in Heel Strike Actual and Detected:
+[0, 0, 0, 1, 1, 1, 1, 2, 1, 1, 2, 0, 3, 1, 0, 0, 0, 2, 1, 0, 2, 1, 1, 3, 0, 3, 0, 0, 1, 1, 0, 1, 2, 0, 1, 0, 3]
+Avg Diff in HS (Samples):
+0.972972972972973
+Avg Diff in HS (Seconds):
+0.06394126876054587
+Difference in Toe Strike Actual and Detected:
+[0, 2, 0, 1, 1, 7, 2, 0, 1, 3, 5, 4, 4, 5, 2, 3, 0, 3, 4, 5, 5, 0, 2, 9, 3, 3, 5, 1, 4, 1, 1, 5, 2, 3, 0, 0]
+Avg Diff in TS (Samples):
+2.6666666666666665
+Avg Diff in TS (Seconds):
+0.17524644030668127
+mssaboo@mssaboo-Inspiron-5559:~/Desktop/TS_HS$ python3 Code.py Walk3
+Walk3
+Total Number of Samples:
+921
+Test Limit:
+916.0
+Sampling Time:
+0.06514657980456026
+Actual Heel Strikes:
+[46, 73, 101, 127, 154, 182, 207, 233, 259, 295, 321, 347, 372, 399, 425, 450, 475, 499, 525, 555, 580, 608, 634, 661, 687, 712, 737, 762, 790, 814, 840, 865, 890, 914]
+Actual Toe Strikes:
+[49, 81, 110, 137, 167, 184, 216, 240, 261, 301, 324, 350, 378, 403, 428, 457, 483, 506, 531, 556, 590, 613, 638, 670, 696, 719, 746, 769, 791, 823, 847, 869, 897, 916]
+Number of Actual Heel Strikes:
+34
+Number of Actual Toe Strikes:
+34
+Detected Heel Strikes:
+[43, 72, 101, 127, 154, 181, 205, 232, 257, 293, 321, 346, 372, 398, 424, 448, 474, 498, 524, 553, 580, 608, 634, 660, 685, 712, 735, 760, 789, 813, 839, 865, 889, 914]
+Detected Toe Strikes:
+[51, 76, 105, 130, 159, 185, 210, 237, 263, 298, 324, 350, 376, 403, 429, 454, 479, 503, 530, 559, 584, 612, 639, 665, 691, 716, 741, 771, 791, 817, 844, 869, 893, 916]
+Number of Detected Heel Strikes:
+34
+Number of Detected Toe Strikes:
+34
+Difference in Heel Strike Actual and Detected:
+[3, 1, 0, 0, 0, 1, 2, 1, 2, 2, 0, 1, 0, 1, 1, 2, 1, 1, 1, 2, 0, 0, 0, 1, 2, 0, 2, 2, 1, 1, 1, 0, 1, 0]
+Avg Diff in HS (Samples):
+0.9705882352941176
+Avg Diff in HS (Seconds):
+0.06323050392795555
+Difference in Toe Strike Actual and Detected:
+[2, 5, 5, 7, 8, 1, 6, 3, 2, 3, 0, 0, 2, 0, 1, 3, 4, 3, 1, 3, 6, 1, 1, 5, 5, 3, 5, 2, 0, 6, 3, 0, 4, 0]
+Avg Diff in TS (Samples):
+2.9411764705882355
+Avg Diff in TS (Seconds):
+0.19160758766047137
+mssaboo@mssaboo-Inspiron-5559:~/Desktop/TS_HS$ python3 Code.py Walk4
+Walk4
+Total Number of Samples:
+1468
+Test Limit:
+1463.0
+Sampling Time:
+0.04087193460490463
+Actual Heel Strikes:
+[29, 69, 103, 138, 174, 205, 235, 265, 308, 340, 374, 404, 437, 474, 508, 544, 577, 615, 651, 692, 727, 761, 792, 824, 859, 896, 929, 963, 1003, 1037, 1070, 1107, 1135, 1168, 1208, 1247, 1288, 1329, 1351, 1382, 1402, 1432, 1452, 1463]
+Actual Toe Strikes:
+[39, 78, 108, 148, 177, 207, 239, 269, 310, 346, 380, 409, 448, 477, 515, 550, 587, 624, 655, 701, 732, 768, 801, 832, 866, 903, 936, 969, 1012, 1046, 1075, 1111, 1141, 1178, 1213, 1253, 1293, 1336, 1354, 1384, 1411, 1436, 1455, 1465]
+Number of Actual Heel Strikes:
+44
+Number of Actual Toe Strikes:
+44
+Detected Heel Strikes:
+[29, 66, 101, 135, 173, 203, 234, 264, 295, 340, 371, 401, 433, 471, 505, 541, 575, 612, 644, 690, 725, 759, 789, 821, 858, 893, 928, 963, 1002, 1036, 1067, 1104, 1132, 1166, 1204, 1243, 1276, 1325, 1350, 1379, 1400, 1431, 1451, 1466]
+Detected Toe Strikes:
+[33, 73, 107, 142, 177, 207, 238, 268, 306, 344, 378, 407, 441, 477, 511, 548, 580, 619, 655, 696, 731, 764, 795, 827, 863, 900, 932, 965, 1007, 1040, 1073, 1110, 1138, 1172, 1211, 1251, 1287, 1333, 1354, 1385, 1405, 1436, 1457]
+Number of Detected Heel Strikes:
+44
+Number of Detected Toe Strikes:
+43
+Difference in Heel Strike Actual and Detected:
+[0, 3, 2, 3, 1, 2, 1, 1, 13, 0, 3, 3, 4, 3, 3, 3, 2, 3, 7, 2, 2, 2, 3, 3, 1, 3, 1, 0, 1, 1, 3, 3, 3, 2, 4, 4, 12, 4, 1, 3, 2, 1, 1, 3]
+Avg Diff in HS (Samples):
+2.772727272727273
+Avg Diff in HS (Seconds):
+0.11332672776814466
+Difference in Toe Strike Actual and Detected:
+[6, 5, 1, 6, 0, 0, 1, 1, 4, 2, 2, 2, 7, 0, 4, 2, 7, 5, 0, 5, 1, 4, 6, 5, 3, 3, 4, 4, 5, 6, 2, 1, 3, 6, 2, 2, 6, 3, 0, 1, 6, 0, 2]
+Avg Diff in TS (Samples):
+3.13953488372093
+Avg Diff in TS (Seconds):
+0.12831886445725874
+mssaboo@mssaboo-Inspiron-5559:~/Desktop/TS_HS$ python3 Code.py Walk5
+Walk5
+Total Number of Samples:
+903
+Test Limit:
+897.9999999999999
+Sampling Time:
+0.0664451827242525
+Actual Heel Strikes:
+[55, 87, 118, 146, 173, 201, 228, 254, 281, 310, 337, 367, 396, 423, 448, 474, 499, 526, 551, 576, 602, 626, 652, 681, 707, 732, 757, 783, 808, 833, 857, 882, 898]
+Actual Toe Strikes:
+[59, 92, 123, 150, 177, 206, 233, 258, 285, 314, 341, 376, 402, 428, 456, 479, 504, 530, 556, 583, 605, 630, 656, 686, 715, 737, 762, 790, 816, 836, 860, 891, 900]
+Number of Actual Heel Strikes:
+33
+Number of Actual Toe Strikes:
+33
+Detected Heel Strikes:
+[55, 85, 114, 145, 171, 198, 228, 254, 278, 306, 334, 365, 396, 421, 446, 474, 497, 523, 550, 573, 599, 625, 652, 679, 706, 732, 756, 783, 808, 832, 856, 882, 901]
+Detected Toe Strikes:
+[60, 96, 124, 153, 179, 208, 234, 260, 287, 315, 343, 375, 403, 427, 456, 480, 505, 531, 557, 584, 609, 632, 657, 688, 716, 737, 763, 792, 814, 837, 864, 888]
+Number of Detected Heel Strikes:
+33
+Number of Detected Toe Strikes:
+32
+Difference in Heel Strike Actual and Detected:
+[0, 2, 4, 1, 2, 3, 0, 0, 3, 4, 3, 2, 0, 2, 2, 0, 2, 3, 1, 3, 3, 1, 0, 2, 1, 0, 1, 0, 0, 1, 1, 0, 3]
+Avg Diff in HS (Samples):
+1.5151515151515151
+Avg Diff in HS (Seconds):
+0.10067451927917045
+Difference in Toe Strike Actual and Detected:
+[1, 4, 1, 3, 2, 2, 1, 2, 2, 1, 2, 1, 1, 1, 0, 1, 1, 1, 1, 1, 4, 2, 1, 2, 1, 0, 1, 2, 2, 1, 4, 3]
+Avg Diff in TS (Samples):
+1.625
+Avg Diff in TS (Seconds):
+0.10797342192691031
+mssaboo@mssaboo-Inspiron-5559:~/Desktop/TS_HS$ python3 Code.py Walk6
+Walk6
+Total Number of Samples:
+949
+Test Limit:
+943.9999999999999
+Sampling Time:
+0.06322444678609063
+Actual Heel Strikes:
+[44, 85, 108, 132, 154, 175, 197, 219, 240, 263, 291, 314, 335, 357, 378, 402, 431, 451, 472, 493, 519, 545, 574, 594, 625, 645, 665, 686, 706, 728, 753, 775, 796, 816, 836, 856, 875, 896, 916, 944]
+Actual Toe Strikes:
+[52, 89, 115, 135, 161, 178, 201, 225, 243, 268, 293, 320, 341, 362, 386, 412, 437, 455, 475, 498, 522, 559, 578, 604, 630, 651, 669, 692, 711, 733, 761, 782, 800, 818, 838, 859, 879, 900, 922, 946]
+Number of Actual Heel Strikes:
+40
+Number of Actual Toe Strikes:
+40
+Detected Heel Strikes:
+[44, 83, 108, 131, 153, 175, 196, 218, 240, 262, 289, 313, 334, 356, 377, 401, 430, 451, 471, 492, 518, 543, 572, 594, 625, 636, 665, 685, 706, 726, 753, 775, 796, 815, 836, 855, 875, 895, 916, 938]
+Detected Toe Strikes:
+[50, 91, 119, 137, 159, 179, 202, 224, 245, 267, 293, 320, 338, 359, 381, 406, 436, 454, 475, 497, 523, 549, 577, 597, 628, 647, 668, 689, 709, 730, 757, 779, 799, 818, 839, 858, 878, 899, 922, 944]
+Number of Detected Heel Strikes:
+40
+Number of Detected Toe Strikes:
+40
+Difference in Heel Strike Actual and Detected:
+[0, 2, 0, 1, 1, 0, 1, 1, 0, 1, 2, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 2, 2, 0, 0, 9, 0, 1, 0, 2, 0, 0, 0, 1, 0, 1, 0, 1, 0, 6]
+Avg Diff in HS (Samples):
+1.075
+Avg Diff in HS (Seconds):
+0.06796628029504742
+Difference in Toe Strike Actual and Detected:
+[2, 2, 4, 2, 2, 1, 1, 1, 2, 1, 0, 0, 3, 3, 5, 6, 1, 1, 0, 1, 1, 10, 1, 7, 2, 4, 1, 3, 2, 3, 4, 3, 1, 0, 1, 1, 1, 1, 0, 2]
+Avg Diff in TS (Samples):
+2.15
+Avg Diff in TS (Seconds):
+0.13593256059009484
+mssaboo@mssaboo-Inspiron-5559:~/Desktop/TS_HS$ python3 Code.py Walk7
+Walk7
+Total Number of Samples:
+956
+Test Limit:
+951.0
+Sampling Time:
+0.06276150627615062
+Actual Heel Strikes:
+[40, 67, 99, 155, 197, 225, 251, 278, 304, 332, 358, 389, 417, 441, 466, 491, 516, 539, 562, 588, 613, 644, 674, 700, 725, 749, 774, 798, 821, 844, 869, 896, 926, 951]
+Actual Toe Strikes:
+[43, 71, 107, 161, 203, 228, 256, 288, 316, 336, 361, 400, 424, 451, 474, 497, 520, 542, 565, 592, 616, 649, 679, 711, 729, 758, 778, 800, 825, 852, 877, 906, 938, 953]
+Number of Actual Heel Strikes:
+34
+Number of Actual Toe Strikes:
+34
+Detected Heel Strikes:
+[38, 66, 98, 154, 197, 225, 248, 278, 304, 329, 353, 388, 414, 441, 466, 491, 515, 537, 562, 587, 612, 639, 674, 699, 724, 747, 774, 797, 821, 843, 869, 894, 923, 952]
+Detected Toe Strikes:
+[43, 70, 106, 160, 203, 229, 255, 282, 308, 335, 361, 392, 421, 445, 470, 495, 519, 542, 569, 591, 616, 646, 678, 704, 728, 753, 777, 801, 825, 848, 873, 896, 929]
+Number of Detected Heel Strikes:
+34
+Number of Detected Toe Strikes:
+33
+Difference in Heel Strike Actual and Detected:
+[2, 1, 1, 1, 0, 0, 3, 0, 0, 3, 5, 1, 3, 0, 0, 0, 1, 2, 0, 1, 1, 5, 0, 1, 1, 2, 0, 1, 0, 1, 0, 2, 3, 1]
+Avg Diff in HS (Samples):
+1.2352941176470589
+Avg Diff in HS (Seconds):
+0.07752891951759783
+Difference in Toe Strike Actual and Detected:
+[0, 1, 1, 1, 0, 1, 1, 6, 8, 1, 0, 8, 3, 6, 4, 2, 1, 0, 4, 1, 0, 3, 1, 7, 1, 5, 1, 1, 0, 4, 4, 10, 9]
+Avg Diff in TS (Samples):
+2.878787878787879
+Avg Diff in TS (Seconds):
+0.1806770635222518
+mssaboo@mssaboo-Inspiron-5559:~/Desktop/TS_HS$ python3 Code.py Walk8
+Walk8
+Total Number of Samples:
+1205
+Test Limit:
+1200.0
+Sampling Time:
+0.04979253112033195
+Actual Heel Strikes:
+[63, 114, 162, 205, 255, 305, 348, 395, 441, 486, 551, 597, 638, 674, 699, 725, 750, 775, 799, 826, 852, 877, 905, 931, 954, 985, 1014, 1038, 1061, 1083, 1107, 1133, 1163, 1187, 1200]
+Actual Toe Strikes:
+[68, 121, 170, 211, 275, 316, 361, 410, 456, 515, 561, 611, 683, 683, 709, 734, 757, 781, 806, 829, 856, 882, 915, 938, 964, 992, 1019, 1045, 1069, 1089, 1116, 1135, 1166, 1191, 1202]
+Number of Actual Heel Strikes:
+35
+Number of Actual Toe Strikes:
+35
+Detected Heel Strikes:
+[61, 113, 157, 204, 252, 304, 348, 394, 440, 486, 541, 596, 637, 674, 699, 724, 749, 775, 799, 825, 850, 877, 905, 930, 954, 984, 1011, 1037, 1060, 1083, 1106, 1130, 1162, 1185, 1203]
+Detected Toe Strikes:
+[67, 119, 166, 209, 260, 308, 351, 398, 444, 490, 552, 601, 641, 678, 702, 729, 753, 780, 804, 829, 855, 880, 910, 934, 958, 989, 1017, 1041, 1064, 1088, 1110, 1136, 1167, 1192]
+Number of Detected Heel Strikes:
+35
+Number of Detected Toe Strikes:
+34
+Difference in Heel Strike Actual and Detected:
+[2, 1, 5, 1, 3, 1, 0, 1, 1, 0, 10, 1, 1, 0, 0, 1, 1, 0, 0, 1, 2, 0, 0, 1, 0, 1, 3, 1, 1, 0, 1, 3, 1, 2, 3]
+Avg Diff in HS (Samples):
+1.4
+Avg Diff in HS (Seconds):
+0.06970954356846472
+Difference in Toe Strike Actual and Detected:
+[1, 2, 4, 2, 15, 8, 10, 12, 12, 25, 9, 10, 42, 5, 7, 5, 4, 1, 2, 0, 1, 2, 5, 4, 6, 3, 2, 4, 5, 1, 6, 1, 1, 1]
+Avg Diff in TS (Samples):
+6.411764705882353
+Avg Diff in TS (Seconds):
+0.31925799365389307
+mssaboo@mssaboo-Inspiron-5559:~/Desktop/TS_HS$ python3 Code.py Walk9
+Walk9
+Total Number of Samples:
+1050
+Test Limit:
+1045.0
+Sampling Time:
+0.05714285714285714
+Actual Heel Strikes:
+[60, 87, 114, 142, 167, 192, 216, 240, 266, 292, 319, 348, 372, 396, 419, 441, 463, 486, 509, 532, 555, 577, 601, 626, 655, 680, 725, 735, 785, 823, 877, 910, 951, 983, 1005, 1045]
+Actual Toe Strikes:
+[69, 95, 124, 148, 172, 198, 220, 248, 275, 299, 329, 373, 373, 402, 425, 447, 466, 493, 515, 538, 561, 588, 607, 632, 665, 735, 735, 875, 875, 875, 962, 962, 962, 992, 1019, 1047]
+Number of Actual Heel Strikes:
+36
+Number of Actual Toe Strikes:
+36
+Detected Heel Strikes:
+[58, 86, 113, 141, 166, 191, 216, 240, 265, 291, 317, 395, 418, 441, 462, 485, 508, 531, 554, 577, 600, 625, 649, 906, 941, 983, 1004, 1045]
+Detected Toe Strikes:
+[62, 90, 117, 146, 170, 195, 220, 242, 269, 294, 319, 398, 422, 444, 466, 489, 512, 535, 558, 581, 604, 628, 652, 910, 951, 987, 1007]
+Number of Detected Heel Strikes:
+28
+Number of Detected Toe Strikes:
+27
+Difference in Heel Strike Actual and Detected:
+[2, 1, 1, 1, 1, 1, 0, 0, 1, 1, 2, 47, 46, 45, 43, 44, 45, 45, 45, 45, 45, 48, 48, 280, 286, 303, 279, 310]
+Avg Diff in HS (Samples):
+71.96428571428571
+Avg Diff in HS (Seconds):
+4.112244897959184
+Difference in Toe Strike Actual and Detected:
+[7, 5, 7, 2, 2, 3, 0, 6, 6, 5, 10, 25, 49, 42, 41, 42, 46, 42, 43, 43, 43, 40, 45, 278, 286, 252, 272]
+Avg Diff in TS (Samples):
+60.81481481481482
+Avg Diff in TS (Seconds):
+3.475132275132275
+mssaboo@mssaboo-Inspiron-5559:~/Desktop/TS_HS$ python3 Code.py Walk10
+Walk10
+Total Number of Samples:
+1007
+Test Limit:
+1002.0
+Sampling Time:
+0.05958291956305859
+Actual Heel Strikes:
+[72, 116, 148, 171, 194, 220, 243, 264, 295, 328, 350, 372, 394, 417, 438, 460, 481, 503, 529, 553, 575, 596, 618, 640, 662, 684, 706, 729, 751, 772, 795, 827, 863, 886, 909, 931, 953, 975, 996]
+Actual Toe Strikes:
+[86, 121, 154, 176, 202, 226, 250, 267, 309, 335, 354, 377, 404, 422, 446, 465, 486, 510, 535, 558, 581, 603, 623, 645, 669, 689, 713, 736, 754, 777, 811, 831, 870, 892, 915, 935, 958, 981, 1002]
+Number of Actual Heel Strikes:
+39
+Number of Actual Toe Strikes:
+39
+Detected Heel Strikes:
+[67, 114, 147, 169, 192, 218, 242, 263, 294, 327, 349, 371, 393, 416, 437, 459, 480, 502, 526, 551, 575, 595, 617, 639, 661, 683, 706, 728, 750, 771, 793, 826, 860, 885, 908, 930, 952, 974, 995, 1005]
+Detected Toe Strikes:
+[74, 118, 151, 172, 195, 222, 245, 266, 298, 331, 352, 375, 397, 420, 441, 462, 483, 505, 529, 555, 578, 599, 621, 642, 664, 687, 709, 731, 753, 775, 796, 830, 865, 888, 912, 933, 955, 977, 999]
+Number of Detected Heel Strikes:
+40
+Number of Detected Toe Strikes:
+39
+Difference in Heel Strike Actual and Detected:
+[5, 2, 1, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 2, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 2, 1, 3, 1, 1, 1, 1, 1, 1]
+Avg Diff in HS (Samples):
+1.3076923076923077
+Avg Diff in HS (Seconds):
+0.07791612558246123
+Difference in Toe Strike Actual and Detected:
+[12, 3, 3, 4, 7, 4, 5, 1, 11, 4, 2, 2, 7, 2, 5, 3, 3, 5, 6, 3, 3, 4, 2, 3, 5, 2, 4, 5, 1, 2, 15, 1, 5, 4, 3, 2, 3, 4, 3]
+Avg Diff in TS (Samples):
+4.17948717948718
+Avg Diff in TS (Seconds):
+0.24902604843021925
+mssaboo@mssaboo-Inspiron-5559:~/Desktop/TS_HS$ python3 Code.py Walk11
+Walk11
+Total Number of Samples:
+934
+Test Limit:
+929.0
+Sampling Time:
+0.06423982869379015
+Actual Heel Strikes:
+[42, 63, 84, 106, 129, 153, 176, 198, 220, 243, 268, 291, 312, 334, 356, 378, 409, 435, 461, 483, 505, 527, 549, 572, 594, 625, 649, 671, 695, 718, 741, 764, 786, 808, 829, 862, 884, 906, 928]
+Actual Toe Strikes:
+[48, 68, 89, 111, 136, 159, 182, 208, 230, 252, 274, 296, 317, 338, 362, 390, 414, 462, 462, 490, 510, 530, 557, 579, 599, 633, 653, 677, 699, 723, 748, 768, 792, 815, 836, 868, 888, 912, 930]
+Number of Actual Heel Strikes:
+39
+Number of Actual Toe Strikes:
+39
+Detected Heel Strikes:
+[41, 62, 83, 105, 128, 152, 174, 197, 220, 243, 267, 290, 311, 333, 355, 376, 408, 432, 459, 482, 504, 526, 548, 571, 593, 624, 648, 670, 693, 717, 740, 763, 785, 807, 828, 861, 883, 905, 928]
+Detected Toe Strikes:
+[45, 65, 86, 108, 131, 156, 178, 201, 224, 254, 271, 293, 314, 336, 359, 379, 412, 436, 462, 486, 507, 530, 551, 575, 597, 627, 651, 674, 697, 720, 743, 766, 788, 810, 832, 864, 886, 909, 930]
+Number of Detected Heel Strikes:
+39
+Number of Detected Toe Strikes:
+39
+Difference in Heel Strike Actual and Detected:
+[1, 1, 1, 1, 1, 1, 2, 1, 0, 0, 1, 1, 1, 1, 1, 2, 1, 3, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+Avg Diff in HS (Samples):
+1.0769230769230769
+Avg Diff in HS (Seconds):
+0.06918135397792785
+Difference in Toe Strike Actual and Detected:
+[3, 3, 3, 3, 5, 3, 4, 7, 6, 2, 3, 3, 3, 2, 3, 11, 2, 26, 0, 4, 3, 0, 6, 4, 2, 6, 2, 3, 2, 3, 5, 2, 4, 5, 4, 4, 2, 3, 0]
+Avg Diff in TS (Samples):
+4.0
+Avg Diff in TS (Seconds):
+0.2569593147751606
+mssaboo@mssaboo-Inspiron-5559:~/Desktop/TS_HS$ 
+
